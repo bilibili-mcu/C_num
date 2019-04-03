@@ -6,4 +6,4 @@ config.txt为学号范围配置文件
 如:1 19 30 45
 ## 版本记录
 ### V1.0
-exe_C_num_V1.0 中包含Windows可执行文件
+exe_C_num_V1.0.zip 中包含Windows可执行文件
